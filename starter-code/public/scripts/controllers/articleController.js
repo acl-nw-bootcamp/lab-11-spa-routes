@@ -7,8 +7,8 @@
   // Also be sure to hide all the main section elements, and reveal the #articles section:
   articleController.index = function() {
     articleView.initIndexPage();
-    $('section').hide();
+    $('#about').hide();
     $('#articles').show();
-
+}
   module.articleController = articleController;
 })(window);

@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Lab 11 SPA Routing
+![ACL](acl-logo.png)  Lab 11 SPA Routing
 =======
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
@@ -11,11 +11,11 @@ The URLs that your app can respond to maps to your apps capabilities. Consider w
 We are now building a true Single-Page App, so clicking links within the app should no longer trigger a brand new request to the web server. Work through these user stories to convert the blog to SPA-style.
 
 ## Submission Instructions
-When you are finished with lab, follow these steps to submit your work. Create one Pull Request (aka: "PR") from your Forked repo to the CF repo with your changes, and you'll each submit that same PR link in Canvas.
+When you are finished with lab, follow these steps to submit your work. Create one Pull Request (aka: "PR") from your Forked repo to the ACL repo with your changes, and you'll each submit that same PR link in Canvas.
 
 1. Ensure that all your local changes are committed, and pushed to your origin repo.
 1. Visit the origin repo on github.com, and ensure that all of your completed work has been merged to master via Pull Requests within your repo.
-1. Create a new PR from your Fork to the CF repo and ensure the branches look correct.
+1. Create a new PR from your Fork to the ACL repo and ensure the branches look correct.
 1. Fill in the template based on the text box prompts:
   1. Write a good descriptive summary of your changes:
     1. Be sure to include how much time you spent on it, and who you worked with.

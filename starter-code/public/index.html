@@ -37,9 +37,9 @@
       <nav class="main-nav">
         <div class="icon-menu"></div>
         <ul>
-          <!-- TODO: Refactor the href attributes in the Home and About anchor tags to navigate users to our new client-side routes -->
-          <li class="tab" data-content="articles"><a href="#" class="icon-home"> Home</a></li>
-          <li class="tab" data-content="about"><a href="#" class="icon-address-book"> About</a></li>
+          <!-- TODONE: Refactor the href attributes in the Home and About anchor tags to navigate users to our new client-side routes -->
+          <li class="tab" data-content="articles"><a href="/" class="icon-home"> Home</a></li>
+          <li class="tab" data-content="about"><a href="/about" class="icon-address-book"> About</a></li>
           <li><a href="http://twitter.com/brookr" target="_blank" class="icon-twitter3"> Twitter</a></li>
           <li><a href="http://github.com/brookr" target="_blank" class="icon-github"> GitHub</a></li>
         </ul>
@@ -79,7 +79,7 @@
     <footer>
       &copy; 2017 Code Fellows | Static Blog | Happy Ipsum!
     </footer>
-    <!-- TODO: Be sure to include the routing functionality with the correct script files.
+    <!-- TODONE: Be sure to include the routing functionality with the correct script files.
                Don't forget that the order of your scripts matters - variables have to be
                declared before you can reference them! -->
 
@@ -90,8 +90,8 @@
     <script src="/scripts/models/article.js"></script>
     <script src="/scripts/views/articleView.js"></script>
     <script src="/scripts/controllers/articleController.js"></script>
-
     <script src="/scripts/controllers/aboutController.js"></script>
-
+    <script src="https://cdn.rawgit.com/visionmedia/page.js/master/page.js"></script>
+    <script src="/scripts/controllers/routes.js"></script>
   </body>
 </html>

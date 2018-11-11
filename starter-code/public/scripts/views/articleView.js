@@ -98,6 +98,6 @@
     $('pre code').each((i, block) => hljs.highlightBlock(block));
   };
 
-  Article.fetchAll(articleView.initIndexPage);
+  // Article.fetchAll(articleView.initIndexPage);
   module.articleView = articleView;
 })(window);
